@@ -13,9 +13,7 @@ You can find more details about my professional experience and portfolio on my w
 Here are a few projects I'm actively working on and excited about:
 
 -   [**Pagget**](https://github.com/OccultParrot/Pagget): A custom Discord bot designed specifically for a Path of Titans community server. This project has been a fantastic opportunity to dive back into Discord bot development.
--   [**Parrots Photos**](https://github.com/OccultParrot/ParrotsPhotos): As a hobby nature photographer, I'm building this personal website to showcase my photography portfolio. It's a work in progress, but I'm enjoying the process of creating a dedicated space for my photos. Check out the development here: [parrotsphotos.com](https://parrotsphotos.com/).
--   [**soundboard.py**](https://github.com/OccultParrot/soundboard.py): A small, fun project developed as part of a friendly competition with a fellow developer to create a soundboard application using Python. It's nearly complete and has been a great learning experience!
-
+-   [**Pixel Planet**](https://github.com/OccultParrot/pixel-planet): A procedural pixel art planet generator! Using shaders and Godot I am using a lot of fun math I dont usually have a reason to use.
 ---
 
 ### GitHub Stats
