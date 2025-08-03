@@ -12,7 +12,7 @@ You can find more details about my professional experience and portfolio on my w
 
 Here are a few projects I'm actively working on and excited about:
 
--   [**AnthraSheets**]([https://github.com/OccultParrot/anthra-sheets](https://github.com/OccultParrot/AnthraSheets)): A website I wrote for the Anthrax path of titans server to simplify the logging of characters
+-   [**AnthraSheets**](https://github.com/OccultParrot/AnthraSheets): A website I wrote for the Anthrax path of titans server to simplify the logging of characters
 -   [**Pixel Planet**](https://github.com/OccultParrot/pixel-planet): A procedural pixel art planet generator! Using shaders and Godot I am using a lot of fun math I dont usually have a reason to use.
 ---
 
