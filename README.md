@@ -4,9 +4,20 @@
 
 ### About Me
 
-I'm a software developer who loves figuring out how to make things! With 6 years of experience in software development and 1 year focusing on web technologies, I enjoy making cool projects and useful tools.
+Hello! I am a 7(ish) year hobby software developer! I typically write local software, but I have started getting into writting server code and webdevelopment!
 
-You can find more details about my professional experience and portfolio on my website: [stemler.dev](https://stemler.dev/)
+My favorite language is **C#**, its just fun to write in and frameworks like MonoGame make it all the more fun to mess with! I have written the most in Python, but thats not all I can write in:
+
+- Python
+- C#
+- Java
+- Javascript (And Typescript lol)
+- Lua (A little)
+- C++ (A little)
+- SQL
+- Visual Basic
+- GLSL (Shaders)
+- Bash
 
 ### Current Projects
 
