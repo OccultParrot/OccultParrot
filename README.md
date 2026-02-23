@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hello! I am a 7(ish) year hobby software developer! I typically write local software, but I have started getting into writting server code and webdevelopment!
+Hello! I am a 7(ish) year hobby software developer! I typically write local software, but I have started getting into writting server code and web development!
 
 My favorite language is **C#**, its just fun to write in and frameworks like MonoGame make it all the more fun to mess with! I have written the most in Python, but thats not all I can write in:
 
