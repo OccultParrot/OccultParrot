@@ -1,7 +1,5 @@
 ## 🦜 Howdy!
 
----
-
 ### About Me
 
 Hello! I am a 7(ish) year hobby software developer! I typically write local software, but I have started getting into writting server code and webdevelopment!
